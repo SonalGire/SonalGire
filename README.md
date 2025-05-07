@@ -6,7 +6,10 @@
 </p>
 
 
+
+
 👩‍💻 About Me
+
 
 I'm Sonal Parmeshwar Gire, a passionate tech explorer working at **Adrta Technologies Pvt. Ltd.**  
 I specialize in building smart AI solutions using:
@@ -21,6 +24,8 @@ Currently focused on applying **Generative AI** to solve real-world business pro
 
 🚀 Projects I’ve Built
 
+
+
 | Project | Stack | Description |
 |--------|-------|-------------|
 | **📄 YouTube Summarizer** | Python, Hugging Face, Gradio | Auto-summarizes YouTube transcripts using open-source models |
@@ -31,7 +36,9 @@ Currently focused on applying **Generative AI** to solve real-world business pro
 | **📚 DocQA System** | LangChain, Streamlit | Multi-PDF/XLSX question-answering with memory & history |
 
 
+
  🛠️ Technologies & Tools
+ 
 
 - 💻 Python, SQL, Django, Excel, Jupyter Notebook
 - 🔬 Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
@@ -43,6 +50,7 @@ Currently focused on applying **Generative AI** to solve real-world business pro
 
 
  📫 Let's Connect!
+ 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sonalgire-dataanalyst/)
 - 💻 [GitHub Repos](https://github.com/SonalGire?tab=repositories)
