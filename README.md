@@ -23,11 +23,12 @@ Currently focused on applying **Generative AI** to solve real-world business pro
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| **[📄 YouTube Summarizer](#)** | Python, Hugging Face, Gradio | Auto-summarizes YouTube transcripts using open-source models |
-| **[📁 ExcelEase](#)** | React, PostgreSQL, Python | Uploads Excel files and maps data into a database using column matching |
-| **[📊 Sentiment Analyzer](#)** | Python, Gradio, Matplotlib | Analyzes emoji/text sentiment from Excel files & visualizes results |
-| **[💰 Crypto Dataset Builder](#)** | Python, CoinGecko API | Fetches Top 1000 coins & generates public datasets |
-| **[📚 DocQA System](#)** | LangChain, Streamlit | Multi-PDF/XLSX question-answering with memory & history |
+| **📄 YouTube Summarizer** | Python, Hugging Face, Gradio | Auto-summarizes YouTube transcripts using open-source models |
+| **📁 ExcelEase** | React, PostgreSQL, Python | Uploads Excel files and maps data into a database using column matching |
+| **📊 Sentiment Analyzer** | Python, Gradio, Matplotlib | Analyzes emoji/text sentiment from Excel files & visualizes results |
+| **[💰 Crypto Dataset Builder](https://www.kaggle.com/datasets/sonalgire/cryptocurrency-market-data-2025-top-1000-coins)** | Python, CoinGecko API | Fetches Top 1000 coins & generates public datasets |
+| **[💰 IMDB Movies Dataset Builder](https://www.kaggle.com/datasets/sonalgire/movie-metadata-collection-4900-films)** | Python, Rapidapi API | Fetched Top 4900+ latest Movies dataset   |
+| **📚 DocQA System** | LangChain, Streamlit | Multi-PDF/XLSX question-answering with memory & history |
 
 
  🛠️ Technologies & Tools
