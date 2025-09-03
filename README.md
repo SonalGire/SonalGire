@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sonal 👋</h1>
 
 <p align="center">
-  <b>AI/ML Enthusiast | Data Engineer | Building with LLMs, LangChain & Hugging Face</b><br>
+  <b>AI Engineer | Full stack Developer - Python  | Building with LLMs, LangChain & Hugging Face</b><br>
   Turning real-world data into intelligent, user-friendly applications.
 </p>
 
