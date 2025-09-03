@@ -11,7 +11,7 @@
 👩‍💻 About Me
 
 
-I'm Sonal Parmeshwar Gire, a passionate tech explorer working at **Adrta Technologies Pvt. Ltd.**  
+I'm Sonal Gire, a passionate tech explorer working at **Adrta Technologies Pvt. Ltd.**  
 I specialize in building smart AI solutions using:
 
 - 🤖 **LLMs** 
