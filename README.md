@@ -34,6 +34,7 @@ Currently focused on applying **Generative AI** to solve real-world business pro
 | **[💰 Crypto Dataset Builder](https://www.kaggle.com/datasets/sonalgire/cryptocurrency-market-data-2025-top-1000-coins)** | Python, CoinGecko API | Fetches Top 1000 coins & generates public datasets |
 | **[💰 IMDB Movies Dataset Builder](https://www.kaggle.com/datasets/sonalgire/movie-metadata-collection-4900-films)** | Python, Rapidapi API | Fetched Top 4900+ latest Movies dataset   |
 | **📚 DocQA System** | LangChain, Streamlit | Multi-PDF/XLSX question-answering with memory & history |
+| **📘 MCQ Generator (RAG-based Quiz System)** | Django, React.js, PostgreSQL, LangChain, Google Gemini API, Chroma DB | Generates realistic multiple-choice questions from uploaded documents using RAG, with interactive quiz mode, scoreboard, and question selection. |
 
 
 
